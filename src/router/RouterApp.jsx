@@ -4,7 +4,6 @@ import AboutPage from "../pages/AboutPage";
 import UserDetails from "../pages/UserDetails";
 import UsersList from "../pages/UserSList";
 
-
 const RouterApp = createBrowserRouter([
   {
     path: "/",
